@@ -1,5 +1,3 @@
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
-
 
 # 自定义小姐姐图标组！
   -   img-url= 拼音名称.PNG
